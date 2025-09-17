@@ -1,0 +1,456 @@
+:: StoryTitle
+Project2_Taria Davis
+
+
+:: StoryData
+{
+  "ifid": "8BE72687-C773-40C5-9339-707FEBBD7E24",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "tag-colors": {
+    "control": "green"
+  },
+  "zoom": 1
+}
+
+
+:: (Maybe I shouldn’t have picked my scab.)\  {"position":"1125,2400","size":"100,100"}
+
+
+
+:: (Or that's what I think?) {"position":"1300,2000","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[The blood sometimes bleeds out a lot but I can just put a bandage over it like it's [[nothing]]. Good as new! Until I take a shower and then the bandage slowly falls off and it's on the shower floor. The blood is still fresh even after all that cleaning.]
+
+
+:: . . . {"position":"1000,1025","size":"100,100"}
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[But I [[seem]]]
+
+
+:: ... {"position":"1075,875","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+(text-colour:grey)[(align:"=><=")+(box:"===XXXX===")[(But, personally I think scabs mean you're having fun or…. something not so nice).
+]]
+
+(align:"=><=")+(box:"===XXXX===")[
+[[. . .]]]
+
+
+:: I {"position":"700,1725","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[ It's just there and it’s calling my name to just[[…]]]
+
+
+:: PICK {"position":"1000,1650","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[Why wouldn’t [[I]]?]
+
+
+:: Pick {"position":"1000,1525","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXX=")[(text-style:"underline","tall","shudder")[(text-colour:red)[ [[PICK]] ]]]
+
+
+:: So what? {"position":"600,2025","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[Maybe it's satisfying to pick the scab. Do I feel bad about it? No, not really it's just there and it doesn't do harm to anyone and it seems to always heal days [[later.]]
+]
+
+
+:: Start {"position":"775,550","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[As a child I was an active kid. Played around here or there, jumping, dancing, swimming, and [[more]].]
+
+
+:: Untitled Passage {"position":"900,375","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+(font:'IM Fell Great Primer SC') 
+[(align:"=><=")+(box:"===XXXX===")[Picking off the Scabs
+
+
+Taria Davis
+
+
+[[Start]]] ]
+
+
+:: always {"position":"775,1225","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[get a scab [[somewhere]].]
+
+
+:: cleaning. {"position":"1125,2275","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(size:0.5)[(align:"=><=")+(box:"===XXXXXXXXXXXXXX===")[(text-style:"blur","expand","fidget")[ [[(Maybe I shouldn’t have picked my scab.) ]]
+]]]
+
+
+:: control {"position":"850,850","size":"100,100"}
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[Lets go for an example!
+
+I loved to run anyway and everywhere.
+
+Running to the park, chasing the birds, my friends, my parents. 
+
+But maybe I ran a bit too fast and dont know how to [[stop]] myself and trip and [[fall]].]
+
+
+:: fall {"position":"1075,725","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[Sometimes there's scrapes but no scabs or sometimes the wound gets pretty bad.
+
+[[...]]]
+
+
+:: floor. {"position":"1300,2250","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=======XXXXXX=======")[(text-colour:red)[(text-rotate-y:6)+(text-rotate-z:6)[The blood is still fresh even after all that [[cleaning.]] ]]]
+
+
+:: later. {"position":"925,2000","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[But sometimes, it gets to a point where I end up bleeding. Maybe I picked it off too hard or just played around with the scab but it doesn't hurt [[me.]] ]
+
+
+:: me. {"position":"1125,2000","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[(text-colour:grey)[(text-style:"subscript","blur")[ [[(Or that's what I think?)]] ]]]
+
+
+:: more {"position":"975,550","size":"100,100"}
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[Lets go for an example!
+
+I loved to run anyway and everywhere.
+
+Running to the park, chasing the birds, my friends, my parents. 
+
+But maybe I ran a bit too fast and dont know how to [[stop]] myself and trip and [[fall]].]
+
+
+:: nothing {"position":"1300,2125","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[The blood sometimes bleeds out a lot but I can just put a bandage over it like it's nothing(text-colour:grey)[ (why am I lying?)]. Good as new! Until I take a shower and then the bandage slowly falls off and it's on the shower [[floor.]] ]
+
+
+:: peel it. {"position":"725,1900","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(live: 3s)[(align:"=><=")[(text-colour:red)[ [[So what?]] ]]]
+
+
+:: pick {"position":"1000,1375","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXX=")[(text-style:"underline","outline")[[Pick]]]
+
+
+:: seem {"position":"800,1075","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[to [[always]]]
+
+
+:: somewhere {"position":"1000,1225","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=======XXXXXX=======")[Whether it was on my knee or on my arm, my hand or my face. Somehow and somewhere I ended up with a scab. And I would [[pick]] ]
+
+
+:: stop {"position":"850,725","size":"100,100"}
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[Lets go for an example!
+
+I loved to run anyway and everywhere.
+
+Running to the park, chasing the birds, my friends, my parents. 
+
+But maybe I ran a bit too fast and dont know how to [[control]] myself and trip and [[fall]].]
+
+
+:: … {"position":"975,1825","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[(text-style:"blur","flat","fidget")[(text-colour:grey)[ [[peel it.]] ]]]
+
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&display=swap');
