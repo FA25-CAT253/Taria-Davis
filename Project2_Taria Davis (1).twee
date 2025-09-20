@@ -1,0 +1,1005 @@
+:: StoryTitle
+Project2_Taria Davis
+
+
+:: StoryData
+{
+  "ifid": "8BE72687-C773-40C5-9339-707FEBBD7E24",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "tag-colors": {
+    "control": "green"
+  },
+  "zoom": 1
+}
+
+
+:: \ bigger. {"position":"1000,2650","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[Maybe that one time I ran too fast and fell on the [[ floor]].]
+
+
+:: \ floor {"position":"1250,2700","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[(size:0.5)[(text-colour:grey)[ [[That hurt a lot]].]]
+]
+
+
+:: (Maybe I shouldn’t have picked my scab.)\  {"position":"925,2300","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[My mom puts an ointment on it though.. and a week or 2 passes and it's back to normal. She simply told me to get on the bed and raise one knee up to put alcohol on [[it]]. But… as she puts the alcohol on the wound she blows softly and tells me everything will be okay, then soothes the pain with her healing powers, the ointment. 
+]
+
+
+:: (Or that's what I think?) {"position":"1300,2000","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[The blood sometimes bleeds out a lot but I can just put a bandage over it like it's [[nothing]]. Good as new! Until I take a shower and then the bandage slowly falls off and it's on the shower floor. ]
+
+
+:: .  .  . {"position":"1000,3250","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[A few years would pass and I guess it was my time to stop with me ending up with scabs. It got to a breaking point where I didn't want the scabs anymore and to be stronger. The last scab I received was when I was (text-colour:white)+(hover-style:(text-color:red))
+[[15]].. ]
+
+
+:: . . . {"position":"1000,1025","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[But I [[seem]]]
+
+
+:: ... {"position":"1075,875","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+(text-colour:grey)[(align:"=><=")+(box:"===XXXX===")[(But, personally I think scabs mean you're having fun or…. something not so nice).
+]]
+
+(align:"=><=")+(box:"===XXXX===")[(text-colour:grey)+(hover-style:(text-color:red))
+[[. . .]]]
+
+
+:: 15 {"position":"800,3275","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[(text-style:"bold","underline")[ The biggest one of [[all]].]]
+
+
+:: ? {"position":"1250,3200","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[(text-colour:white)+(hover-style:(text-color:red))
+ [[.  .  .]] ]
+
+
+:: I {"position":"700,1725","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[ It's just there and it’s calling my name to just[[…]]]
+
+
+:: I ended up hurt. {"position":"1025,3025","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[(text-style:"subscript","fidget")[(text-colour:grey)[(text-style:"blur")[(Picking the scab isn't so bad though..(live: 3s)[(text-rotate-z:4)[ [[right]]]?) 
+]]]]]
+
+
+:: PICK {"position":"1000,1650","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")
+[Why wouldn’t [(text-colour:white)+(hover-style:(text-color:red))[[I]]?]]
+
+
+:: Pick {"position":"1000,1525","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXX=")[(text-style:"underline","tall","shudder")[(text-colour:red)+(hover-style:(text-color:black))
+[ [[PICK]] ]]]
+
+
+:: Scabs. {"position":"975,3600","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+(text-style:"fidget")[(font:'IM Fell Great Primer SC') 
+[(align:"=><=")+(box:"===XXXX===")[Picking off the Scabs
+
+
+Taria Davis
+
+
+[[Start]]
+
+
+Warning: Epilepsy & Harm
+
+Please be advise] ]]
+
+
+:: So what? {"position":"600,2025","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[Maybe it's satisfying to pick the scab. Do I feel bad about it? No, not really... it's just there.... and it doesn't do any harm to anyone and it seems to always heal days [[later.]]
+]
+
+
+:: Start {"position":"775,550","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[As a child I was an active kid. Played around here or there, jumping, dancing, swimming, and (text-colour:white)+(hover-style:(text-color:red))[[more]].]
+
+
+:: That hurt a lot {"position":"1425,2675","size":"100,100"}
+(align:"=><=")+(box:"=XXXXXXXX=")[Looking down, seeing my skin on the (text-colour:white)+(hover-style:(text-color:red))[[concrete]].]
+
+
+:: Untitled Passage {"position":"900,375","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+(text-style:"fidget")[(font:'IM Fell Great Primer SC') 
+[(align:"=><=")+(box:"===XXXX===")[Picking off the Scabs
+
+
+Taria Davis
+
+
+[[Start]]
+
+
+Warning: Epilepsy & Harm
+
+Please be advise] ]]
+
+
+:: again {"position":"1250,2450","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[(text-colour:red)+(hover-style:(text-color:black))[(text-style:"tall")[but [[ bigger.]] ]]]
+
+
+:: all {"position":"850,3425","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[(text-style:"expand")[(size:1.5)[(enchant:?page,(bg:(gradient: 0, 0,#000000,0.5,#e61919,1,#000000)))(text-style:"tall","rumble")[(live: 2s)[This time it left a permanent (text-colour:white)+(hover-style:(text-color:black))
+[[scar]]. ]]]]]
+
+
+:: always {"position":"775,1225","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[get a scab (text-colour:white)+(hover-style:(text-color:red))[[somewhere]].]
+
+
+:: cleaning. {"position":"1125,2275","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(size:0.5)[(align:"=><=")+(box:"===XXXXXXXXXXXXXX===")[(text-colour:grey)+(hover-style:(text-color:red)) [(text-style:"blur","expand","fidget")[[(Maybe I shouldn’t have picked my scab.) ]]
+]]]
+
+
+:: concrete {"position":"1425,2800","size":"100,100"}
+
+
+
+
+
+Where did it all go [[wrong]]?
+
+
+:: control {"position":"775,875","size":"100,100"}
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[Lets go for an example!
+
+I loved to run anyway and everywhere.
+
+Running to the park, chasing the birds, my friends, my parents. 
+
+But maybe I ran a bit too fast and didn't know how to (text-colour:transparent)+(hover-style:(text-color:red))[[stop]] leading myself and trip and (text-colour:transparent)+(hover-style:(text-color:red))[[fall]].]
+
+
+:: fall {"position":"1075,725","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[Sometimes there's scrapes but no scabs or sometimes the wound gets pretty bad.
+
+[[...]]]
+
+
+:: floor. {"position":"1300,2250","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=======XXXXXX=======")[(text-colour:red)[(text-rotate-y:6)+(text-rotate-z:6)[The blood is still fresh even after all that [[cleaning.]] ]]]
+
+
+:: her {"position":"1275,3400","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[Because if it wasn't for her, how would I have gotten back up to cherish my scars and move on from my [[past]] scabs.
+]
+
+
+:: hurt {"position":"775,3050","size":"100,100"}
+
+=||=
+(text-colour:red)+(hover-style:(text-color:black))[(text-style:"shudder")[(live: 0.1s)[I ended up hurt.]
+(live: 0.2s)[I ended up hurt.]
+(live: 0.3s)[I ended up hurt.]
+(live: 0.4s)[I ended up hurt.]
+(live: 0.5s)[I ended up hurt.]
+(live: 0.6s)[I ended up hurt.]
+(live: 0.7s)[I ended up hurt.]
+(live: 0.8s)[I ended up hurt.]
+(live: 0.9s)[I ended up hurt.]
+(live: 1s)[I ended up hurt.]
+(live: 1.1s)[I ended up hurt.]
+(live: 1.2s)[I ended up hurt.]
+(live: 1.3s)[I ended up hurt.]
+(live: 1.4s)[I ended up hurt.]
+(live: 1.5s)[I ended up hurt.]
+]]
+=||=
+(text-colour:red)+(hover-style:(text-color:black))[(text-style:"shudder")[(live: 0.1s)[I ended up hurt.]
+(live: 0.2s)[I ended up hurt.]
+(live: 0.3s)[I ended up hurt.]
+(live: 0.4s)[I ended up hurt.]
+(live: 0.5s)[I ended up hurt.]
+(live: 0.6s)[I ended up hurt.]
+(live: 0.7s)[I ended up hurt.]
+(live: 0.8s)[I ended up hurt.]
+(live: 0.9s)[I ended up hurt.]
+(live: 1s)[I ended up hurt.]
+(live: 1.1s)[I ended up hurt.]
+(live: 1.2s)[I ended up hurt.]
+(live: 1.3s)[I ended up hurt.]
+(live: 1.4s)[I ended up hurt.]
+(live: 1.5s)[I ended up hurt.]
+]]
+=|=
+(text-colour:red)+(hover-style:(text-color:black))[(text-style:"shudder")[(live: 0.1s)[I ended up hurt.]
+(live: 0.2s)[I ended up hurt.]
+(live: 0.3s)[(text-colour:red)+(hover-style:(text-color:white)) [[I ended up hurt.]]]
+(live: 0.4s)[I ended up hurt.]
+(live: 0.5s)[I ended up hurt.]
+(live: 0.6s)[I ended up hurt.]
+(live: 0.7s)[I ended up hurt.]
+(live: 0.8s)[I ended up hurt.]
+(live: 0.9s)[I ended up hurt.]
+(live: 1s)[I ended up hurt.]
+(live: 1.1s)[I ended up hurt.]
+(live: 1.2s)[I ended up hurt.]
+(live: 1.3s)[I ended up hurt.]
+(live: 1.4s)[I ended up hurt.]
+(live: 1.5s)[I ended up hurt.]
+]]
+=|=
+(text-colour:red)+(hover-style:(text-color:black))[(text-style:"shudder")[(live: 0.1s)[I ended up hurt.]
+(live: 0.2s)[I ended up hurt.]
+(live: 0.3s)[I ended up hurt.]
+(live: 0.4s)[I ended up hurt.]
+(live: 0.5s)[I ended up hurt.]
+(live: 0.6s)[I ended up hurt.]
+(live: 0.7s)[I ended up hurt.]
+(live: 0.8s)[I ended up hurt.]
+(live: 0.9s)[I ended up hurt.]
+(live: 1s)[I ended up hurt.]
+(live: 1.1s)[I ended up hurt.]
+(live: 1.2s)[I ended up hurt.]
+(live: 1.3s)[I ended up hurt.]
+(live: 1.4s)[I ended up hurt.]
+(live: 1.5s)[I ended up hurt.]
+]]
+=||=
+(text-colour:red)+(hover-style:(text-color:black))[(text-style:"shudder")[(live: 0.1s)[I ended up hurt.]
+(live: 0.2s)[I ended up hurt.]
+(live: 0.3s)[I ended up hurt.]
+(live: 0.4s)[I ended up hurt.]
+(live: 0.5s)[I ended up hurt.]
+(live: 0.6s)[I ended up hurt.]
+(live: 0.7s)[I ended up hurt.]
+(live: 0.8s)[I ended up hurt.]
+(live: 0.9s)[I ended up hurt.]
+(live: 1s)[I ended up hurt.]
+(live: 1.1s)[I ended up hurt.]
+(live: 1.2s)[I ended up hurt.]
+(live: 1.3s)[I ended up hurt.]
+(live: 1.4s)[I ended up hurt.]
+(live: 1.5s)[I ended up hurt.]
+]]
+=||=
+(text-colour:red)+(hover-style:(text-color:black))[(text-style:"shudder")[(live: 0.1s)[I ended up hurt.]
+(live: 0.2s)[I ended up hurt.]
+(live: 0.3s)[I ended up hurt.]
+(live: 0.4s)[I ended up hurt.]
+(live: 0.5s)[I ended up hurt.]
+(live: 0.6s)[I ended up hurt.]
+(live: 0.7s)[I ended up hurt.]
+(live: 0.8s)[I ended up hurt.]
+(live: 0.9s)[I ended up hurt.]
+(live: 1s)[I ended up hurt.]
+(live: 1.1s)[I ended up hurt.]
+(live: 1.2s)[I ended up hurt.]
+(live: 1.3s)[I ended up hurt.]
+(live: 1.4s)[I ended up hurt.]
+(live: 1.5s)[I ended up hurt.]
+]]
+|==|
+
+
+:: it {"position":"875,2450","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[My mom puts an ointment on it though and a week or 2 passes and it's back to normal. She simply told me to get on the bed and raise one knee up to put alcohol on it(text-colour:grey)[ (burns like hell!)]. But… as she puts the alcohol on the wound she blows softly and tells me everything will be okay, then soothes the pain with her healing powers, the [[ointment]]. 
+]
+
+
+:: later. {"position":"925,2000","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[But sometimes, it gets to a point where I end up bleeding. Maybe I picked it off too hard or just played around with the scab but it doesn't hurt [[me.]] ]
+
+
+:: me {"position":"1425,3200","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[(text-colour:grey)[(text-style:"italic","blur")[(But I'm a big girl..(text-colour:red)[(text-style:"tall","rumble")[ right[[?]])]]]]]
+
+
+:: me. {"position":"1125,2000","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[(text-colour:grey)+(hover-style:(text-color:red))[(text-style:"subscript","blur")[ [[(Or that's what I think?)]] ]]]
+
+
+:: more {"position":"975,550","size":"100,100"}
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[Lets go for an example!
+
+I love to run anywhere and everywhere.
+
+Running to the park, chasing the birds, my friends, my parents. 
+
+But maybe I ran a bit too fast and didn't know how to (text-colour:transparent)+(hover-style:(text-color:red))[[stop]], leading myself to trip and (text-colour:transparent)+(hover-style:(text-color:red))[[fall]].]
+
+
+:: myself {"position":"975,2825","size":"100,100"}
+
+
+
+
+
+Where did it all go wrong?
+(align:"=><=")+(box:"XXXXXXXXX=")[(size:0.5)[I trusted myself being free and not hurting myself ]]
+(align:"==>")[
+[(text-style:"fidget")[(size:0.4)[(live: 1s)[but for some [[reason]] ]]]]]
+
+
+:: nothing {"position":"1300,2125","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[The blood sometimes bleeds out a lot but I can just put a bandage over it like it's nothing(text-colour:grey)[ (why am I lying?)]. Good as new! Until I take a shower and then the bandage slowly falls off and it's on the shower (text-colour:white)+(hover-style:(text-color:red))[[floor.]] ]
+
+
+:: ointment {"position":"1025,2450","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[But months will go by and then another scab will come (text-colour:white)+(hover-style:(text-color:red))[[again]], ]
+
+
+:: past {"position":"1425,3500","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[(text-colour:red)+(hover-style:(text-color:black))
+[ [[【REDACTED】]] ]]
+
+
+:: peel it. {"position":"725,1900","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(live: 3s)[(align:"=><=")[(text-colour:red)+(hover-style:(text-color:orange))[ [[So what?]] ]]]
+
+
+:: pick {"position":"925,1400","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXX=")[(text-style:"underline","outline")[(text-colour:black)+(hover-style:(text-color:red))
+[[Pick]]]]
+
+
+:: reason {"position":"800,2875","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=========XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX======")[(text-colour:red)+(hover-style:(text-color:black))[I ended up [[hurt]].]]
+
+
+:: right {"position":"1250,3025","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[(text-colour:white)+(hover-style:(text-color:red))[(live: 2s)[ [[．．．]] ]]]
+
+
+:: scar {"position":"1100,3400","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[I couldn't pick the scab anymore but to accept it was with me wherever I went. My mom was worried and asked what happened but this time, this time I told her. She felt so lost wishing she was able to put the ointment there sooner if she ever knew about it earlier. I'm glad I told her and I'm glad I can trust (text-colour:white)+(hover-style:(text-color:red))
+[[her]]. 
+]
+
+
+:: seem {"position":"800,1075","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[to [[always]]]
+
+
+:: somewhere {"position":"1000,1225","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=======XXXXXX=======")[Whether it was on my knee or on my arm, my hand or my face. Somehow and somewhere I ended up with a scab. And I [[would]] ]
+
+
+:: stop {"position":"850,725","size":"100,100"}
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXX===")[Lets go for an example!
+
+I loved to run anyway and everywhere.
+
+Running to the park, chasing the birds, my friends, my parents. 
+
+But maybe I ran a bit too fast and didn't know how to (text-colour:transparent)+(hover-style:(text-color:red))[[control]], leading myself to trip and (text-colour:transparent)+(hover-style:(text-color:red))[[fall]].]
+
+
+:: would {"position":"1125,1350","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXX=")[(text-colour:#2b1d1d)+(hover-style:(text-color:red))[ [[pick]]]]
+
+
+:: wrong {"position":"1175,2825","size":"100,100"}
+
+
+
+
+
+Where did it all go wrong?
+(align:"=><=")+(box:"XXXXXXXXX=")[(size:0.5)[I trusted myself being free and not hurting (text-colour:white)+(hover-style:(text-color:red))[[myself]] ]]
+
+
+:: … {"position":"975,1825","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"=XXXXXXXX=")[(text-style:"blur","flat","fidget")[(text-colour:grey)+(hover-style:(text-color:red))[[peel it.]] ]]
+
+
+:: 【REDACTED】 {"position":"1275,3625","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[(text-colour:grey)[(text-style:"blur")[(text-style:"fidget")[(live: 3s)[ Your dad.]]]]]
+
+
+
+
+(text-colour:#2b1d1d)+(hover-style:(text-color:red))
+[(live: 6s)[Picking off the [[Scabs.]] ]]
+
+
+:: ．．． {"position":"1450,3025","size":"100,100"}
+
+
+
+
+
+
+
+
+
+
+
+(align:"=><=")+(box:"===XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX==")[My mom would ask me what happened and I wouldn’t know how to tell her. Maybe it’s the fact she might go to my (text-colour:red)[【REDACTED】] about the scabs or might not even believe (text-colour:white)+(hover-style:(text-color:black))
+[[me]],]
+
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&display=swap');
+
+(text-colour:transparent)+(hover-style:(text-color:red))
+
+(text-colour:white)+(hover-style:(text-color:red))
+
+#2b1d1d
